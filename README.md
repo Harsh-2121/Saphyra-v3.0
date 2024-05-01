@@ -17,6 +17,6 @@ The line "if (previous+100<request_counter) & (previous<>request_counter):" has 
 
 # How to run the tool
 
-First, copy the URL to git clone it. Then navigate to the directory. Open the terminal or CMD there. Type pip install -r requirements.txt. Then type python3 saphyra.py [ URL ]. Type your victim's URL without the squre bracket in the place of [ URL ]. Your target website is dead!
+First, copy the URL to git clone it. Then navigate to the directory. Open the terminal or CMD there. Type pip install -r requirements.txt. Then type python3 saphyra.py [ URL ]. Type your victim's URL without the square bracket in the place of [ URL ]. Your target website is dead!
 
 Thats all! Enjoy hacking(ethically, of course)!
